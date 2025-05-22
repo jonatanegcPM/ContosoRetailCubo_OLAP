@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\S17VanzePoryect\\Documentos-A-Utilizar\\Semana8\\ContosoRetailCubo_OLAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950474BE-6D6F-FA66-54CB-40DB99492B83}|ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP.dwproj|C:\\Users\\MINEDUCYT\\Desktop\\S17VanzePoryect\\Documentos-A-Utilizar\\Semana8\\ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{950474BE-6D6F-FA66-54CB-40DB99492B83}|ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP.dwproj|solutionrelative:ContosoRetailCubo_OLAP\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950474BE-6D6F-FA66-54CB-40DB99492B83}|ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP.dwproj|C:\\Users\\MINEDUCYT\\Desktop\\S17VanzePoryect\\Documentos-A-Utilizar\\Semana8\\ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP\\Contoso Retail DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{950474BE-6D6F-FA66-54CB-40DB99492B83}|ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP.dwproj|solutionrelative:ContosoRetailCubo_OLAP\\Contoso Retail DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\S17VanzePoryect\\Documentos-A-Utilizar\\Semana8\\ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP\\Dim Date.dim",
+              "RelativeDocumentMoniker": "ContosoRetailCubo_OLAP\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\S17VanzePoryect\\Documentos-A-Utilizar\\Semana8\\ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP\\Dim Date.dim [Design]",
+              "RelativeToolTip": "ContosoRetailCubo_OLAP\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-22T10:30:05.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contoso Retail DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\S17VanzePoryect\\Documentos-A-Utilizar\\Semana8\\ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP\\Contoso Retail DW.cube",
+              "RelativeDocumentMoniker": "ContosoRetailCubo_OLAP\\Contoso Retail DW.cube",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\S17VanzePoryect\\Documentos-A-Utilizar\\Semana8\\ContosoRetailCubo_OLAP\\ContosoRetailCubo_OLAP\\Contoso Retail DW.cube [Design]",
+              "RelativeToolTip": "ContosoRetailCubo_OLAP\\Contoso Retail DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-22T10:28:58.414Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
